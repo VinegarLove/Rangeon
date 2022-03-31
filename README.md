@@ -14,4 +14,6 @@ It outputs a text file with the layout, as well as displaying the output
 
 The symbol # displays the walls, the letter "O" displays the doors and the "\_" are rooms and corridors
 
-An example can be found in the repo.
+## Human Readable Example
+
+![Human Readable Example](example_human_readable.png)
