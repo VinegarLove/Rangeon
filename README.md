@@ -12,4 +12,6 @@ Altering the code one can specify the following parameters. I did not implement 
 
 It outputs a text file with the layout, as well as displaying the output
 
-The symbol # displays the walls, the letter "O" displays the doors and the empty spaces are rooms and corridors
+The symbol # displays the walls, the letter "O" displays the doors and the "\_" are rooms and corridors
+
+An example can be found in the repo.
