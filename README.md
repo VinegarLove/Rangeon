@@ -7,7 +7,7 @@ Altering the code one can specify the following parameters. I did not implement 
 
 - Max size of the rooms
 - Retry room count (how many time to brute force a room inside the maze)
-- Percentage of how much the maze should be "perfect"
+- Percentage of how much the maze should be "perfect" vs avoiding dead ending
 - Percentage of how much the maze should be wind around (% of having corner on corridor).
 
 It outputs a text file with the layout, as well as displaying the output
